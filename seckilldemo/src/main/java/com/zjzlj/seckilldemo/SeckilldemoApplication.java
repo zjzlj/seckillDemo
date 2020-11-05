@@ -14,14 +14,6 @@ public class SeckilldemoApplication {
 
 
     /**
-     * update 3 for rollback mark 1
-     */
-
-    /**
-     * update 2 for rollback mark 2
-     */
-
-    /**
-     * update 5
+     * update 1 for rollback
      */
 }
